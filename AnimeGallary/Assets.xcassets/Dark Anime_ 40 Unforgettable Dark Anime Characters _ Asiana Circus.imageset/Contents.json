@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Dark Anime_ 40 Unforgettable Dark Anime Characters _ Asiana Circus.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
